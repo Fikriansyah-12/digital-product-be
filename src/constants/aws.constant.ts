@@ -1,3 +1,5 @@
+import * as process from 'process';
+
 export const awsConstant = {
     ACCESS_KEY_AWS: process.env.ACCESS_KEY_AWS || '',
     SECRET_ACCES_KEY_AWS: process.env.SECRET_ACCES_KEY_AWS || '',

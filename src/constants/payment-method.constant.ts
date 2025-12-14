@@ -1,0 +1,7 @@
+export const paymentMethodConstant = {
+    VIRTUAL_ACCOUNT: 'VIRTUAL_ACCOUNT',
+    EWALLET: 'EWALLET',
+    BANK_TRANSFER: 'BANK_TRANSFER',
+    CREDIT_CARD: 'CREDIT_CARD',
+    MINIMARKET: 'MINIMARKET',
+};
